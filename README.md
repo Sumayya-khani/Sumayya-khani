@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Sumayya-khani
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Sumayya-khani/Sumayya-khani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi, I'm Sumayya-khani .Studying CS-BS it's my final year.
+I am looking for the help to find how to install librabries in python .we are making a system which will recognise faces of students.
+I am trying to install librabies face_recognintion and the other is dlib but they couldn't install 
